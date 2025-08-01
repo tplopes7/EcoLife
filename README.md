@@ -1,23 +1,39 @@
-# 🌱 EcoLife — Jornada de Conscientização Sustentável
+# 🌱 EcoLife — Transformando Hábitos, Preservando o Planeta
+**Aplicativo mobile** desenvolvido na Fatec Jundiaí (2022) que incentiva a sustentabilidade no dia a dia através de desafios práticos e conteúdo educativo.
 
-**Jornada EcoLife: desafios para a sustentabilidade**  
-📄 *Artigo publicado na coletânea "Ciência, Tecnologia e Cultura na Praça" — Volume 1 (Fatec-SP, 2022)*
+## ✨ Como Funciona
+- **Desafios diários personalizados** divididos em 4 categorias:
+  - 🍃 Eco-consumo (compras conscientes, redução de plástico)
+  - ♻️ Reciclagem (consumo consciente, resíduos, compostagem)
+  - 💡 Energia & Água (economizar recursos)
+  - 🥗 Alimentação sustentável (vegetarianismo, desperdício zero)
 
-O **EcoLife** é um aplicativo mobile desenvolvido com o objetivo de incentivar a mudança de hábitos por meio de desafios sustentáveis no cotidiano. A proposta alia **tecnologia e responsabilidade ambiental**, promovendo a reflexão sobre temas como alimentação consciente, economia de energia, descarte adequado de resíduos e reciclagem de roupas.
 
-### 💡 Funcionalidades do app:
-- Desafios interativos categorizados (como energia, alimentação, consumo, lixo);
-- Conteúdos educativos baseados nos **três pilares da sustentabilidade**: econômico, social e ambiental;
-- Interface intuitiva com elementos visuais e interativos;
-- Sistema de notificações, links dinâmicos e barra de busca integrada.
+- **Sistema de progresso** com:
+  - ✅ Desafios completos
+  - 📊 Estatísticas pessoais
+  - 🏆 Conquistas e recompensas virtuais
 
-### 🛠️ Tecnologias e Ferramentas Utilizadas:
-- **MIT App Inventor** (plataforma de desenvolvimento visual por blocos);
-- **Banco de dados local** para persistência de informações;
-- **Programação de algoritmos** com foco em lógica e usabilidade mobile;
-- Testes realizados em smartphones Android com validação de elementos da UI (botões, imagens, vídeos e interações).
 
-### 🔍 Metodologia:
-O projeto foi fundamentado em **pesquisas acadêmicas sobre sustentabilidade** e boas práticas no desenvolvimento de aplicativos móveis. A criação do conteúdo foi feita com base em fontes como Brasil Escola, Cidade Verde e outras referências científicas.
+## 🛠️ Nosso Tech Stack
 
----
+| Área          | Tecnologia               |
+|---------------|--------------------------|
+| Desenvolvimento | MIT App Inventor 2       |
+| Armazenamento   | Banco de dados local (TinyDB) |
+| Integrações    | Google Search API        |
+| UI/UX          | Design adaptativo para Android |
+
+## 📲 Features Técnicas
+
+**Notificações inteligentes** (lembretes de desafios)
+
+**Sistema de URLs** para artigos e vídeos educativos
+
+**Barra de pesquisa integrada** para dúvidas sobre sustentabilidade
+
+**Modo offline** para acesso sem internet
+
+📚 Mais Detalhes
+Todo o background acadêmico, metodologia de pesquisa e resultados estão disponíveis no nosso artigo completo:
+[📄 Ver artigo publicado](artigo1.pdf)
