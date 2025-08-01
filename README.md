@@ -1,12 +1,23 @@
-# EcoLife
-Jornada EcoLife: desafios para a  sustentabilidade
+# 🌱 EcoLife — Jornada de Conscientização Sustentável
 
-🌱 Projeto EcoLife — Artigo Publicado
-O EcoLife é um aplicativo desenvolvido com o objetivo de conscientizar os usuários sobre os impactos de seus hábitos diários no meio ambiente, incentivando práticas sustentáveis no cotidiano. O app aborda temas como alimentação consciente, consumo responsável, descarte adequado de lixo e reciclagem de roupas, por meio de desafios interativos e conteúdos educativos sobre sustentabilidade.
+**Jornada EcoLife: desafios para a sustentabilidade**  
+📄 *Artigo publicado na coletânea "Ciência, Tecnologia e Cultura na Praça" — Volume 1 (Fatec-SP, 2022)*
 
-📄 Este projeto resultou em um artigo científico intitulado "Jornada EcoLife: desafios para a sustentabilidade", publicado em 2022 na coletânea Ciência, Tecnologia e Cultura na Praça – Volume 1, da Faculdade de Tecnologia de Jundiaí (Fatec-SP), com distribuição nacional entre as Fatecs.
+O **EcoLife** é um aplicativo mobile desenvolvido com o objetivo de incentivar a mudança de hábitos por meio de desafios sustentáveis no cotidiano. A proposta alia **tecnologia e responsabilidade ambiental**, promovendo a reflexão sobre temas como alimentação consciente, economia de energia, descarte adequado de resíduos e reciclagem de roupas.
 
-Para o desenvolvimento, foram realizadas pesquisas em artigos científicos sobre sustentabilidade, e o aplicativo foi construído com a plataforma MIT App Inventor, utilizando recursos como banco de dados local, notificações, navegação entre telas, links e exibição de conteúdo dinâmico.
+### 💡 Funcionalidades do app:
+- Desafios interativos categorizados (como energia, alimentação, consumo, lixo);
+- Conteúdos educativos baseados nos **três pilares da sustentabilidade**: econômico, social e ambiental;
+- Interface intuitiva com elementos visuais e interativos;
+- Sistema de notificações, links dinâmicos e barra de busca integrada.
 
-🧪 A iniciativa alia tecnologia e responsabilidade ambiental, reforçando a importância de soluções digitais no apoio à educação ambiental e à transformação de hábitos.
+### 🛠️ Tecnologias e Ferramentas Utilizadas:
+- **MIT App Inventor** (plataforma de desenvolvimento visual por blocos);
+- **Banco de dados local** para persistência de informações;
+- **Programação de algoritmos** com foco em lógica e usabilidade mobile;
+- Testes realizados em smartphones Android com validação de elementos da UI (botões, imagens, vídeos e interações).
 
+### 🔍 Metodologia:
+O projeto foi fundamentado em **pesquisas acadêmicas sobre sustentabilidade** e boas práticas no desenvolvimento de aplicativos móveis. A criação do conteúdo foi feita com base em fontes como Brasil Escola, Cidade Verde e outras referências científicas.
+
+---
